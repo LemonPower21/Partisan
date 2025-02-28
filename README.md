@@ -33,11 +33,11 @@ This Python script captures and analyzes network packets using the Scapy library
 3.  **Run the Script:**
     * On Linux/macOS, run with `sudo`:
         ```bash
-        sudo python your_script_name.py
+        sudo python partisan.py
         ```
     * On Windows, run from an administrator command prompt:
         ```bash
-        python your_script_name.py
+        python partisan.py
         ```
 
 ## Code 
