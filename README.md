@@ -40,7 +40,7 @@ This Python script captures and analyzes network packets using the Scapy library
         python your_script_name.py
         ```
 
-## Code Explanation
+## Code 
 
 ```python
 from scapy.all import sniff, IP, TCP, UDP, Ether
